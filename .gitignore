@@ -1,0 +1,4 @@
+*.zip
+*.idea
+pys/*.png
+class/*
